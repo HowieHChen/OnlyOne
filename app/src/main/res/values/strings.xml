@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Only One</string>
+    <string name="developer_name" translatable="false">Howie Chen</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="ali_idlefish"/>
+    <item drawable="boc"/>
+    <item drawable="chaoxing_study"/>
+    <item drawable="chaoxing_whu"/>
+    <item drawable="cn_12123"/>
+    <item drawable="cn_12306"/>
+    <item drawable="duokan"/>
+    <item drawable="langeasylexis"/>
+    <item drawable="meituan"/>
+    <item drawable="mt_manager"/>
+    <item drawable="pinduoduo"/>
+    <item drawable="sec_camera"/>
+    <item drawable="sec_clockpackage"/>
+    <item drawable="sec_goodguardians"/>
+    <item drawable="sec_goodlock"/>
+    <item drawable="sec_pentastic"/>
+    <item drawable="sec_soundassistant"/>
+    <item drawable="sec_stk"/>
+    <item drawable="sec_themepark"/>
+    <item drawable="umetrip"/>
+    <item drawable="unionpay"/>
+    <item drawable="xiaomi_mihome"/>
+    <item drawable="xvideos"/>
+</resources>

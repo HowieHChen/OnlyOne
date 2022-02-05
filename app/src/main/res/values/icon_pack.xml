@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+        <item>ali_idlefish</item>
+        <item>boc</item>
+        <item>chaoxing_study</item>
+        <item>chaoxing_whu</item>
+        <item>cn_12123</item>
+        <item>cn_12306</item>
+        <item>duokan</item>
+        <item>langeasylexis</item>
+        <item>meituan</item>
+        <item>mt_manager</item>
+        <item>pinduoduo</item>
+        <item>sec_camera</item>
+        <item>sec_clockpackage</item>
+        <item>sec_goodguardians</item>
+        <item>sec_goodlock</item>
+        <item>sec_pentastic</item>
+        <item>sec_soundassistant</item>
+        <item>sec_stk</item>
+        <item>sec_themepark</item>
+        <item>umetrip</item>
+        <item>unionpay</item>
+        <item>xiaomi_mihome</item>
+        <item>xvideos</item>
+    </string-array>
+</resources>

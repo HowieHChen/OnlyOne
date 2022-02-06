@@ -1,0 +1,10 @@
+/.gradle/*
+/.idea/*
+/gradle/*
+/projectFilesBackup/*
+/build/*
+gradlew
+gradlew.bat
+local.properties
+*.iml
+/reserve

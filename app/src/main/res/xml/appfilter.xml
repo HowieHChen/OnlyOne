@@ -4,10 +4,10 @@
         defaultHour="10"
         defaultMinute="10"
         defaultSecond="30"
-        drawable="clock_dynamic"
-        hourLayerIndex="0"
-        minuteLayerIndex="1"
-        secondLayerIndex="2" />
+        drawable="sec_clockpackage_dynamic"
+        hourLayerIndex="1"
+        minuteLayerIndex="2"
+        secondLayerIndex="3" />
     <calendar
         component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
         prefix="sec_calendar_" />

@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dynamic-clock
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30"
+        drawable="clock_dynamic"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2" />
+    <calendar
+        component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
+        prefix="sec_calendar_" />
+    <calendar
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="sec_calendar_" />
+    <calendar
+        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+        prefix="sec_calendar_" />
+
     <item
         component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}"
         drawable="ali_idlefish"/>
@@ -52,11 +70,26 @@
         component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
         drawable="pinduoduo"/>
     <item
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="sec_calendar" />
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+        drawable="sec_calendar" />
+    <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="sec_camera"/>
     <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}"
+        drawable="sec_clockpackage_dynamic" />
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity}"
+        drawable="sec_clockpackage_dynamic" />
+    <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
-        drawable="sec_clockpackage"/>
+        drawable="sec_clockpackage_dynamic" />
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}"
+        drawable="sec_clockpackage_dynamic" />
     <item
         component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}"
         drawable="sec_goodguardians"/>

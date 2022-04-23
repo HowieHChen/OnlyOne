@@ -123,6 +123,10 @@
     <item
         component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
         drawable="com_google_android_play_games" />
+    <!-- Google Play Store -->
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="ic_playstore" />
     <!-- JD Mall -->
     <item
         component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}"
@@ -237,10 +241,32 @@
     <item
         component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}"
         drawable="com_microsoft_appmanager" />
+    <item
+        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.fre.ui.FreActivity}"
+        drawable="com_microsoft_appmanager" />
     <!-- MT Manager -->
     <item
         component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}"
         drawable="bin_mt_plus"/>
+    <!-- Mx Player -->
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}"
+        drawable="com_mxtech_videoplayer_pro" />
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}"
+        drawable="com_mxtech_videoplayer_pro" />
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}"
+        drawable="com_mxtech_videoplayer_pro" />
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}"
+        drawable="com_mxtech_videoplayer_pro" />
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ae.ActivityWelcomeMX}"
+        drawable="com_mxtech_videoplayer_pro" />
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.beta/com.mxtech.videoplayer.ad.ActivityWelcomeMX}"
+        drawable="com_mxtech_videoplayer_pro" />
     <!-- Qianji -->
     <item
         component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}"
@@ -253,10 +279,22 @@
     <item
         component="ComponentInfo{com.ryougifujino.purebook/com.ryougifujino.purebook.universal.MainActivity}"
         drawable="com_ryougifujino_purebook"/>
+    <!-- Samsung AR Zone -->
+    <item
+        component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
+        drawable="com_samsung_android_arzone" />
     <!-- Samsung Bixby -->
     <item
         component="ComponentInfo{com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity}"
         drawable="ic_bixby" />
+    <!-- Samsung Bixby Routines -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy}"
+        drawable="com_samsung_android_app_routines"/>
+    <!-- Samsung Bixby Vision -->
+    <item
+        component="ComponentInfo{com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.main.DummyActivity}"
+        drawable="com_samsung_android_visionintelligence" />
     <!-- Samsung Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
@@ -285,6 +323,52 @@
     <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}"
         drawable="sec_clockpackage_dynamic" />
+    <!-- Samsung Contact -->
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.contacts/com.freeme.contacts.FreemePeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.contacts/com.gionee.contacts.activities.BaseActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.alias.ContactsActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.allContactsActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.ContactsAcitivy}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.journeyui.contacts.ui.main.ContactMainActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
+        drawable="ic_contact" />
+    <item
+        component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="ic_contact" />
     <!-- Samsung Files -->
     <item
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
@@ -302,6 +386,13 @@
     <item
         component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}"
         drawable="com_samsung_android_galaxycontinuity" />
+    <!-- Samsung Gallery -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.vr.gallery2/com.samsung.android.app.vr.gallery2.MainActivity}"
+        drawable="ic_gallery" />
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
+        drawable="ic_gallery" />
     <!-- Samsung Goodguardians -->
     <item
         component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}"
@@ -313,7 +404,54 @@
     <item
         component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity}"
         drawable="com_samsung_android_goodlock"/>
-    <!-- Sasmugn Music -->
+    <!-- Samsung Health -->
+    <item
+        component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
+        drawable="ic_shealth" />
+    <!-- Samsung Internet -->
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="ic_internet" />
+    <!-- Samsung Linksharing -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.simplesharing/com.samsung.android.app.simplesharing.SimpleShareApplication}"
+        drawable="com_samsung_android_app_simplesharing" />
+    <!-- Samsung Members -->
+    <item
+        component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity}"
+        drawable="ic_galaxycare"/>
+    <!-- Samsung Message -->
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.android.mms/com.freeme.mms.FreemeConversationList}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.android.messaging/com.android.mms.ui.ConversationList}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.tab.MmsMainActivity}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}"
+        drawable="ic_message" />
+    <item
+        component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}"
+        drawable="ic_message" />
+    <!-- Samsung Music -->
     <item
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}"
         drawable="ic_music" />
@@ -332,14 +470,38 @@
     <item
         component="ComponentInfo{com.samsung.android.app.music.chn/com.samsung.android.app.music.common.activity.MusicMainActivity}"
         drawable="ic_music" />
+    <!-- Samsung Notes -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}"
+        drawable="ic_notes" />
     <!-- Samsung Pentastic -->
     <item
         component="ComponentInfo{com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity}"
         drawable="com_samsung_android_pentastic"/>
+    <!-- Samsung Phone -->
+    <item
+        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
+        drawable="ic_phone" />
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}"
+        drawable="ic_phone" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
+        drawable="ic_phone" />
+    <item
+        component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
+        drawable="ic_phone" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}"
+        drawable="ic_phone" />
     <!-- Samsung Quick Measure -->
     <item
         component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}"
         drawable="com_samsung_android_ruler" />
+    <!-- Samsung Quick Share -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.sharelive/com.samsung.android.app.sharelive.presentation.main.MainActivity}"
+        drawable="com_samsung_android_app_sharelive" />
     <!-- Samsung Voice Recorder -->
     <item
         component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}"
@@ -349,12 +511,33 @@
         drawable="ic_voicerecorder" />
     <!-- Samsung Reminder -->
     <item
-        component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity}"
-        drawable="com_samsung_android_app_reminder" />
-    <item
         component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}"
         drawable="com_samsung_android_app_reminder"/>
-
+    <!-- Samsung S Assistant -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity}"
+        drawable="ic_sassistant" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.SReminderActivity}"
+        drawable="ic_sassistant"/>
+    <!-- Samsung Settings -->
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="ic_settings" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}"
+        drawable="ic_settings" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}"
+        drawable="ic_settings" />
+    <!-- Samsung Smart Things -->
+    <item
+        component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}"
+        drawable="com_samsung_android_oneconnect" />
+    <!-- Samsung Smart Manager -->
+    <item
+        component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity}"
+        drawable="ic_smartmanager"/>
     <!-- Samsung Soundassistant -->
     <item
         component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
@@ -367,14 +550,37 @@
     <item
         component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
         drawable="ic_galaxystore" />
+    <!-- Samsung Theme Store -->
+    <item
+        component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}"
+        drawable="ic_themestore" />
+    <item
+        component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.WTLauncher}"
+        drawable="ic_themestore" />
     <!-- Samsung Themepark -->
     <item
         component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}"
         drawable="com_samsung_android_themedesigner"/>
+    <!-- Samsung Tips -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}"
+        drawable="ic_tips" />
     <!-- Samsung Wearable -->
     <item
         component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
         drawable="ic_gear" />
+    <!-- Samsung Wear Plugin Watch -->
+    <item
+        component="ComponentInfo{com.samsung.android.gearrplugin/com.samsung.android.gearoplugin.maininfo.MainInfoActivity}"
+        drawable="com_samsung_android_gearrplugin" />
+    <!-- Samsung Wear Plugin Buds -->
+    <item
+        component="ComponentInfo{com.samsung.accessory.atticmgr/com.samsung.accessory.hearablemgr.module.home.HomeActivity}"
+        drawable="com_samsung_accessory_atticmgr" />
+    <!-- Samsung Weather -->
+    <item
+        component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}"
+        drawable="com_sec_android_daemonapp" />
     <!-- Sina Weibo -->
     <item
         component="ComponentInfo{com.sina.weibo/com.sina.weibo.MainTabActivity}"

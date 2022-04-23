@@ -17,67 +17,262 @@
     <calendar
         component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
         prefix="sec_calendar_" />
-
+    <!-- Ali Idlefish -->
     <item
         component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}"
-        drawable="ali_idlefish"/>
+        drawable="com_taobao_idlefish"/>
     <item
         component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity.Round}"
-        drawable="ali_idlefish"/>
+        drawable="com_taobao_idlefish"/>
+    <!-- Ali Pay -->
+    <item
+        component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
+        drawable="com_eg_android_alipaygphone" />
+    <!-- Ali Taobao -->
+    <item
+        component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+        drawable="com_taobao_taobao" />
+    <item
+        component="ComponentInfo{com.taobao.htao.android/com.taobao.tao.welcome.Welcome}"
+        drawable="com_taobao_taobao" />
+    <!-- Amap -->
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.NewMapActivity}"
+        drawable="com_autonavi_minimap" />
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="com_autonavi_minimap" />
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.minimap.Splashy}"
+        drawable="com_autonavi_minimap" />
+    <!-- Anywhere -->
+    <item
+        component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}"
+        drawable="com_absinthe_anywhere_"/>
+    <!-- Baidu Tieba Lite -->
+    <item
+        component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.activities.MainActivity}"
+        drawable="com_huanchengfly_tieba_post"/>
+    <!-- Bilibili -->
+    <item
+        component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
+        drawable="tv_danmaku_bili" />
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="tv_danmaku_bili" />
+    <item
+        component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="tv_danmaku_bili" />
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+        drawable="tv_danmaku_bili" />
+    <!-- Bank of China -->
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
-        drawable="boc"/>
+        drawable="com_chinamworld_bocmbci"/>
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.chinamworld.bocmbci.biz.DexActivity}"
-        drawable="boc"/>
+        drawable="com_chinamworld_bocmbci"/>
+    <!-- Card Emulator Pro -->
+    <item
+        component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}"
+        drawable="com_yuanwofei_cardemulator_pro"/>
+    <!-- Chaoxing Mobile -->
     <item
         component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
-        drawable="chaoxing_study"/>
+        drawable="com_chaoxing_mobile"/>
+    <!-- Chaoxing Wuhan University -->
     <item
         component="ComponentInfo{com.chaoxing.mobile.wuhanuniversity/com.chaoxing.mobile.activity.SplashActivity}"
-        drawable="chaoxing_whu"/>
+        drawable="com_chaoxing_mobile_wuhanuniversity"/>
+    <!-- Clash -->
+    <item
+        component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}"
+        drawable="com_github_kr328_clash" />
+    <!-- CN 12123 -->
     <item
         component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}"
-        drawable="cn_12123"/>
+        drawable="com_tmri_app_main"/>
     <item
         component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}"
-        drawable="cn_12123"/>
+        drawable="com_tmri_app_main"/>
+    <!-- CN 12306 -->
     <item
         component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}"
-        drawable="cn_12306"/>
+        drawable="com_mobileticket"/>
     <item
         component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
-        drawable="cn_12306"/>
+        drawable="com_mobileticket"/>
+    <!-- Coolapk -->
+    <item
+        component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}"
+        drawable="com_coolapk_market" />
+    <!-- Duokan -->
     <item
         component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}"
-        drawable="duokan"/>
+        drawable="com_duokan_reader"/>
+    <!-- EhViewer -->
+    <item
+        component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}"
+        drawable="com_hippo_ehviewer"/>
+    <!-- GeoGebra -->
+    <item
+        component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}"
+        drawable="org_geogebra_android_calculator_suite"/>
+    <!-- Google Play Games -->
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="com_google_android_play_games" />
+    <!-- JD Mall -->
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}"
+        drawable="com_jingdong_app_mall" />
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.preinstall.ConnectNetPromptActivity}"
+        drawable="com_jingdong_app_mall" />
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}"
+        drawable="com_jingdong_app_mall" />
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.ConnectNetPromptActivity}"
+        drawable="com_jingdong_app_mall" />
+    <!-- Langeasylexis -->
     <item
         component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}"
-        drawable="langeasylexis"/>
+        drawable="cn_com_langeasy_langeasylexis"/>
+    <!-- Magisk -->
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/a.c}"
+        drawable="com_topjohnwu_magisk" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
+        drawable="com_topjohnwu_magisk" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
+        drawable="com_topjohnwu_magisk"/>
+    <!-- Meituan -->
     <item
         component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}"
-        drawable="meituan"/>
+        drawable="com_sankuai_meituan"/>
     <item
         component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}"
-        drawable="meituan"/>
+        drawable="com_sankuai_meituan"/>
     <item
         component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.Welcome}"
-        drawable="meituan"/>
+        drawable="com_sankuai_meituan"/>
+    <!-- Microsoft Authenticator -->
+    <item
+        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}"
+        drawable="com_azure_authenticator" />
+    <item
+        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}"
+        drawable="com_azure_authenticator" />
+    <!-- Microsoft Edge -->
+    <item
+        component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}"
+        drawable="com_microsoft_emmx" />
+    <!-- Microsoft Excel -->
+    <item
+        component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="com_microsoft_office_excel" />
+    <item
+        component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}"
+        drawable="com_microsoft_office_excel" />
+    <!-- Microsoft Lens -->
+    <item
+        component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}"
+        drawable="com_microsoft_office_officelens" />
+    <!-- Microsoft Math -->
+    <item
+        component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}"
+        drawable="com_microsoft_math" />
+    <!-- Microsoft Office -->
+    <item
+        component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="com_microsoft_office_officehubrow" />
+    <item
+        component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="com_microsoft_office_officehubrow" />
+    <!-- Microsoft Onedrive -->
+    <item
+        component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+        drawable="com_microsoft_skydrive" />
+    <!-- Microsoft Onenote -->
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
+        drawable="com_microsoft_office_onenote" />
+    <!-- Microsoft Outlook -->
+    <item
+        component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}"
+        drawable="com_microsoft_office_outlook" />
+    <!-- Microsoft Powerpoint -->
+    <item
+        component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="com_microsoft_office_powerpoint" />
+    <!-- Microsoft Remote Desktop -->
+    <item
+        component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity}"
+        drawable="com_microsoft_rdc_androidx"/>
+    <!-- Microsoft To Do -->
+    <item
+        component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}"
+        drawable="com_microsoft_todos" />
+    <!-- Microsoft Word -->
+    <item
+        component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="com_microsoft_office_word" />
+    <item
+        component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.word.WordActivity}"
+        drawable="com_microsoft_office_word" />
+    <!-- Microsoft Your Phone -->
+    <item
+        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.MainApplication}"
+        drawable="com_microsoft_appmanager" />
+    <item
+        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpSettingActivity}"
+        drawable="com_microsoft_appmanager" />
+    <item
+        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}"
+        drawable="com_microsoft_appmanager" />
+    <item
+        component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}"
+        drawable="com_microsoft_appmanager" />
+    <!-- MT Manager -->
     <item
         component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}"
-        drawable="mt_manager"/>
+        drawable="bin_mt_plus"/>
+    <!-- Qianji -->
+    <item
+        component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}"
+        drawable="com_mutangtech_qianji" />
+    <!-- Pinduoduo -->
     <item
         component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
-        drawable="pinduoduo"/>
+        drawable="com_xunmeng_pinduoduo"/>
+    <!-- Pure Book -->
+    <item
+        component="ComponentInfo{com.ryougifujino.purebook/com.ryougifujino.purebook.universal.MainActivity}"
+        drawable="com_ryougifujino_purebook"/>
+    <!-- Samsung Bixby -->
+    <item
+        component="ComponentInfo{com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity}"
+        drawable="ic_bixby" />
+    <!-- Samsung Calculator -->
+    <item
+        component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="ic_calculator" />
+    <!-- Samsung Calendar -->
     <item
         component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="sec_calendar" />
+        drawable="ic_s_planner" />
     <item
         component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
-        drawable="sec_calendar" />
+        drawable="ic_s_planner" />
+    <!-- Samsung Camera -->
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
-        drawable="sec_camera"/>
+        drawable="ic_camera"/>
+    <!-- Samsung Clock -->
     <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}"
         drawable="sec_clockpackage_dynamic" />
@@ -90,40 +285,275 @@
     <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}"
         drawable="sec_clockpackage_dynamic" />
+    <!-- Samsung Files -->
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
+        drawable="ic_myfiles" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.LaunchActivity}"
+        drawable="ic_myfiles" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
+        drawable="ic_myfiles" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}"
+        drawable="ic_myfiles" />
+    <!-- Samsung Flow -->
+    <item
+        component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}"
+        drawable="com_samsung_android_galaxycontinuity" />
+    <!-- Samsung Goodguardians -->
     <item
         component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}"
-        drawable="sec_goodguardians"/>
+        drawable="com_android_samsung_utilityapp"/>
+    <!-- Samsung Goodlock -->
     <item
         component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}"
-        drawable="sec_goodlock"/>
+        drawable="com_samsung_android_goodlock"/>
     <item
         component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity}"
-        drawable="sec_goodlock"/>
+        drawable="com_samsung_android_goodlock"/>
+    <!-- Sasmugn Music -->
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}"
+        drawable="ic_music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="ic_music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainActivity}"
+        drawable="ic_music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.samsung.android.app.music.common.activity.MusicMainActivity}"
+        drawable="ic_music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music0ygc/com.samsung.musicplus.MusicMainActivity}"
+        drawable="ic_music" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.music.chn/com.samsung.android.app.music.common.activity.MusicMainActivity}"
+        drawable="ic_music" />
+    <!-- Samsung Pentastic -->
     <item
         component="ComponentInfo{com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity}"
-        drawable="sec_pentastic"/>
+        drawable="com_samsung_android_pentastic"/>
+    <!-- Samsung Quick Measure -->
+    <item
+        component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}"
+        drawable="com_samsung_android_ruler" />
+    <!-- Samsung Voice Recorder -->
+    <item
+        component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}"
+        drawable="ic_voicerecorder" />
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="ic_voicerecorder" />
+    <!-- Samsung Reminder -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity}"
+        drawable="com_samsung_android_app_reminder" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}"
+        drawable="com_samsung_android_app_reminder"/>
+
+    <!-- Samsung Soundassistant -->
     <item
         component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
-        drawable="sec_soundassistant"/>
+        drawable="com_samsung_android_soundassistant"/>
+    <!-- Samsung SIM -->
     <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_DualSim}"
-        drawable="sec_stk"/>
+        drawable="ic_sim_toolkit_1"/>
+    <!-- Samsung Galaxy Store -->
+    <item
+        component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
+        drawable="ic_galaxystore" />
+    <!-- Samsung Themepark -->
     <item
         component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}"
-        drawable="sec_themepark"/>
+        drawable="com_samsung_android_themedesigner"/>
+    <!-- Samsung Wearable -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
+        drawable="ic_gear" />
+    <!-- Sina Weibo -->
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.MainTabActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashAliasActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibolite/com.sina.weibo.SplashActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibo/com.weico.international.activity.LogoActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.weico.international/com.qihoo.util.StartActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibolite/com.sina.weibo.lightning.main.splash.SplashActivity}"
+        drawable="com_weico_international" />
+    <item
+        component="ComponentInfo{com.sina.weibolite/com.sina.weibo.lightning.main.SplashActivity}"
+        drawable="com_weico_international" />
+    <!-- Solid Explorer -->
+    <item
+        component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}"
+        drawable="pl_solidexplorer2" />
+    <!-- Spotify -->
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="com_spotify_music" />
+    <!-- Telegram -->
+    <item
+        component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}"
+        drawable="org_telegram_messenger" />
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="org_telegram_messenger" />
+    <item
+        component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}"
+        drawable="org_telegram_messenger" />
+    <item
+        component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}"
+        drawable="org_telegram_messenger" />
+    <!-- Tencent QQ-->
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.appshell.proxysdk.SetupInfoActivity}"
+        drawable="com_tencent_mobileqq" />
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="com_tencent_mobileqq" />
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.MythoiActivity}"
+        drawable="com_tencent_mobileqq" />
+    <item
+        component="ComponentInfo{com.tencent.mobileqq/com.TMore.qq.activity.InitializationActivity}"
+        drawable="com_tencent_mobileqq" />
+    <item
+        component="ComponentInfo{com.tencent.qqlite/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="com_tencent_mobileqq" />
+    <item
+        component="ComponentInfo{com.tencent.minihd.qq/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="com_tencent_mobileqq" />
+    <!-- Tencent Wechat -->
+    <item
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="com_tencent_mm" />
+    <!-- Twitter -->
+    <item
+        component="ComponentInfo{com.twitteer.android/com.twitter.android.StartActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.hmdsajib0.Twitter/com.hmdsajib0.Twitter.Screen1}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.MyFusApp.Twitter/com.androlua.Welcome}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.acdxgrv.ghjg66dfd/com.zgalaxy.sdk.advert.AdvertActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.twitter1.android/com.twitter.android.StartActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{org.chromium.webapk.ace0b15a6ce931426/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{org.chromium.webapk.ace0b15a6ce931426/org.chromium.webapk.shell_apk.MainActivity}"
+        drawable="com_twitter_android" />
+    <item
+        component="ComponentInfo{com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity}"
+        drawable="com_twitter_android" />
+    <!-- Umetrip -->
     <item
         component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}"
-        drawable="umetrip"/>
+        drawable="com_umetrip_android_msky_app"/>
+    <!-- Unicom -->
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+        drawable="com_sinovatech_unicom_ui"/>
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.uj/com.sinovatech.unicom.uj.WelcomeClient}"
+        drawable="com_sinovatech_unicom_ui" />
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.MainActivity}"
+        drawable="com_sinovatech_unicom_ui" />
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.ui.WelcomeClient}"
+        drawable="com_sinovatech_unicom_ui" />
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+        drawable="com_sinovatech_unicom_ui" />
+
+    <!-- Unionpay -->
     <item
         component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityMain}"
-        drawable="unionpay"/>
+        drawable="com_unionpay"/>
     <item
         component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}"
-        drawable="unionpay"/>
+        drawable="com_unionpay"/>
+    <!-- Wakeup Schedule -->
+    <item
+        component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity}"
+        drawable="com_suda_yzune_wakeupschedule_pro" />
+    <item
+        component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.view.activity.ScheduleActivity}"
+        drawable="com_suda_yzune_wakeupschedule_pro" />
+    <item
+        component="ComponentInfo{com.suda.yzune.wakeupschedule.pro/com.suda.yzune.wakeupschedule.SplashActivity}"
+        drawable="com_suda_yzune_wakeupschedule_pro" />
+    <!-- Xiaomi Home -->
     <item
         component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
-        drawable="xiaomi_mihome"/>
+        drawable="com_xiaomi_smarthome"/>
+    <!-- XVideos -->
     <item
         component="ComponentInfo{com.wg.xvideos.app/com.xvideos.common.activities.DefaultActivity}"
-        drawable="xvideos"/>
+        drawable="com_wg_xvideos_app"/>
+    <!-- ZArchiver -->
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver/com.aditya.filebrowser.WelcomeActivity}"
+        drawable="ru_zdevs_zarchiver_pro" />
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver/com.file.fileManage.ui.MainActivity}"
+        drawable="ru_zdevs_zarchiver_pro" />
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver/com.file.fileManage.ui.SplashActivity}"
+        drawable="ru_zdevs_zarchiver_pro" />
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}"
+        drawable="ru_zdevs_zarchiver_pro" />
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}"
+        drawable="ru_zdevs_zarchiver_pro" />
+    <!-- Zhihu -->
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
+        drawable="com_zhihu_android" />
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
+        drawable="com_zhihu_android" />
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.ui.activity.GuideActivity}"
+        drawable="com_zhihu_android" />
+    <item
+        component="ComponentInfo{com.zhihu.explore/com.zhihu.android.app.ui.activity.LauncherActivity}"
+        drawable="com_zhihu_android" />
+    <item
+        component="ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.MainActivity}"
+        drawable="com_zhihu_android" />
+    <item
+        component="ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity}"
+        drawable="com_zhihu_android" />
 </resources>

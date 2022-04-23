@@ -66,7 +66,7 @@
     <item drawable="ic_music"/>
     <item drawable="ic_notes"/>
     <item drawable="com_samsung_android_pentastic"/>
-    <item drawavle="ic_phone"/>
+    <item drawable="ic_phone"/>
     <item drawable="com_samsung_android_ruler"/>
     <item drawable="com_samsung_android_app_sharelive"/>
     <item drawable="ic_voicerecorder"/>

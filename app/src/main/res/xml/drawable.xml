@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
+    <!-- A -->
+    <item drawable="com_cainiao_wireless"/>
+    <item drawable="com_alibaba_android_rimet"/>
+    <item drawable="me_ele"/>
     <item drawable="com_taobao_idlefish"/>
     <item drawable="com_eg_android_alipaygphone"/>
     <item drawable="com_taobao_taobao"/>
     <item drawable="com_autonavi_minimap"/>
     <item drawable="com_absinthe_anywhere_"/>
+    <!-- B -->
+    <item drawable="com_baidu_netdisk"/>
     <item drawable="com_huanchengfly_tieba_post"/>
     <item drawable="tv_danmaku_bili"/>
     <item drawable="com_chinamworld_bocmbci"/>
+    <item drawable="com_ss_android_ugc_aweme"/>
+    <!-- C -->
     <item drawable="com_yuanwofei_cardemulator_pro"/>
     <item drawable="com_chaoxing_mobile"/>
     <item drawable="com_chaoxing_mobile_wuhanuniversity"/>
     <item drawable="com_github_kr328_clash"/>
+    <item drawable="com_sinovatech_unicom_ui"/>
+    <item drawable="com_greenpoint_android_mc10086_activity"/>
+    <item drawable="com_sunrise_scmbhc"/>
+    <item drawable="com_xinhang_mobileclient"/>
     <item drawable="com_tmri_app_main"/>
     <item drawable="com_mobileticket"/>
     <item drawable="com_coolapk_market"/>
+    <item drawable="ctrip_android_view"/>
+    <!-- D -->
+    <item drawable="com_dianping_v1"/>
+    <item drawable="air_tv_douyu_android"/>
+    <item drawable="com_shizhuang_duapp"/>
     <item drawable="com_duokan_reader"/>
+    <!-- E -->
     <item drawable="com_hippo_ehviewer"/>
+    <item drawable="tc_everphoto"/>
+    <!-- F -->
+    <!-- G -->
     <item drawable="org_geogebra_android_calculator_suite"/>
     <item drawable="com_google_android_play_games"/>
     <item drawable="ic_playstore"/>
+    <!-- H -->
+    <item drawable="com_hupu_shihuo"/>
+    <!-- I -->
+    <!-- J -->
     <item drawable="com_jingdong_app_mall"/>
+    <!-- K -->
+    <item drawable="com_gotokeep_keep"/>
+    <!-- L -->
     <item drawable="cn_com_langeasy_langeasylexis"/>
+    <!-- M -->
     <item drawable="com_topjohnwu_magisk"/>
     <item drawable="com_sankuai_meituan"/>
     <item drawable="com_azure_authenticator"/>
@@ -41,9 +70,18 @@
     <item drawable="com_microsoft_appmanager"/>
     <item drawable="bin_mt_plus"/>
     <item drawable="com_mxtech_videoplayer_pro"/>
-    <item drawable="com_mutangtech_qianji"/>
+    <!-- N -->
+    <item drawable="com_netease_cloudmusic"/>
+    <!-- O -->
+    <!-- P -->
     <item drawable="com_xunmeng_pinduoduo"/>
+    <item drawable="com_sup_android_superb"/>
     <item drawable="com_ryougifujino_purebook"/>
+    <!-- Q -->
+    <item drawable="com_mutangtech_qianji"/>
+    <item drawable="com_quark_browser"/>
+    <!-- R -->
+    <!-- S -->
     <item drawable="com_samsung_android_arzone"/>
     <item drawable="ic_bixby"/>
     <item drawable="com_samsung_android_app_routines"/>
@@ -86,21 +124,33 @@
     <item drawable="com_samsung_accessory_atticmgr"/>
     <item drawable="com_sec_android_daemonapp"/>
     <item drawable="com_weico_international"/>
+    <item drawable="com_sina_weibo"/>
     <item drawable="pl_solidexplorer2"/>
     <item drawable="com_spotify_music"/>
+    <!-- T -->
     <item drawable="org_telegram_messenger"/>
+    <item drawable="com_tencent_karaoke"/>
+    <item drawable="com_tencent_qqmusic"/>
     <item drawable="com_tencent_mobileqq"/>
     <item drawable="com_tencent_mm"/>
     <item drawable="com_twitter_android"/>
+    <!-- U -->
     <item drawable="com_umetrip_android_msky_app"/>
-    <item drawable="com_sinovatech_unicom_ui"/>
     <item drawable="com_unionpay"/>
+    <!-- V -->
+    <item drawable="mark_via"/>
+    <!-- W -->
     <item drawable="com_suda_yzune_wakeupschedule_pro"/>
+    <item drawable="cn_wps_moffice_eng"/>
+    <item drawable="com_xingin_xhs"/>
+    <!-- X -->
     <item drawable="com_xiaomi_smarthome"/>
     <item drawable="com_wg_xvideos_app"/>
+    <!-- Y -->
+    <!-- Z -->
     <item drawable="ru_zdevs_zarchiver_pro"/>
     <item drawable="com_zhihu_android"/>
-
+    <!-- Dynamic -->
     <item drawable="sec_calendar_1"/>
     <item drawable="sec_calendar_2"/>
     <item drawable="sec_calendar_3"/>

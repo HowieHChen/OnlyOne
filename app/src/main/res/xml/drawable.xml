@@ -2,15 +2,19 @@
 <resources>
     <version>1</version>
     <!-- A -->
+    <item drawable="com_android_bankabc"/>
     <item drawable="com_cainiao_wireless"/>
     <item drawable="com_alibaba_android_rimet"/>
     <item drawable="me_ele"/>
     <item drawable="com_taobao_idlefish"/>
+    <item drawable="com_alicloud_databox"/>
     <item drawable="com_eg_android_alipaygphone"/>
     <item drawable="com_taobao_taobao"/>
+    <item drawable="com_youku_phone"/>
     <item drawable="com_autonavi_minimap"/>
     <item drawable="com_absinthe_anywhere_"/>
     <!-- B -->
+    <item drawable="com_baidu_homework"/>
     <item drawable="com_baidu_baidumap"/>
     <item drawable="com_baidu_netdisk"/>
     <item drawable="com_huanchengfly_tieba_post"/>
@@ -18,6 +22,7 @@
     <item drawable="tv_danmaku_bilibilihd"/>
     <item drawable="com_bilibili_app_in"/>
     <item drawable="com_chinamworld_bocmbci"/>
+    <item drawable="com_ss_android_article_news"/>
     <item drawable="com_ss_android_ugc_aweme"/>
     <!-- C -->
     <item drawable="com_yuanwofei_cardemulator_pro"/>
@@ -110,17 +115,24 @@
     <item drawable="ic_calculator"/>
     <item drawable="ic_s_planner"/>
     <item drawable="ic_camera"/>
+    <item drawable="com_samsung_android_app_galaxyraw"/>
     <item drawable="ic_clock"/>
     <item drawable="ic_contact"/>
+    <item drawable="ic_email"/>
     <item drawable="ic_myfiles"/>
+    <item drawable="ic_s_finder"/>
     <item drawable="com_samsung_android_galaxycontinuity"/>
+    <item drawable="com_samsung_android_forest"/>
+    <item drawable="ic_galaxy_shop"/>
     <item drawable="ic_gallery"/>
     <item drawable="ic_game_launcher"/>
     <item drawable="com_android_samsung_utilityapp"/>
     <item drawable="com_samsung_android_goodlock"/>
     <item drawable="ic_shealth"/>
+    <item drawable="com_samsung_android_shealthmonitor"/>
     <item drawable="ic_internet"/>
     <item drawable="com_samsung_android_app_simplesharing"/>
+    <item drawable="com_samsung_android_mdx"/>
     <item drawable="ic_galaxycare"/>
     <item drawable="ic_message"/>
     <item drawable="ic_music"/>
@@ -134,8 +146,12 @@
     <item drawable="com_samsung_android_app_sharelive"/>
     <item drawable="ic_voicerecorder"/>
     <item drawable="com_samsung_android_app_reminder"/>
+    <item drawable="ic_s_roaming"/>
     <item drawable="ic_sassistant"/>
+    <item drawable="com_samsung_android_scloud"/>
+    <item drawable="com_samsung_knox_securefolder"/>
     <item drawable="ic_settings"/>
+    <item drawable="com_sec_android_easymover"/>
     <item drawable="ic_smartmanager"/>
     <item drawable="com_samsung_android_oneconnect"/>
     <item drawable="com_samsung_android_soundassistant"/>
@@ -146,12 +162,17 @@
     <item drawable="ic_themestore"/>
     <item drawable="com_samsung_android_themedesigner"/>
     <item drawable="ic_tips"/>
+    <item drawable="ic_video"/>
     <item drawable="ic_gear"/>
     <item drawable="com_samsung_android_gearrplugin"/>
     <item drawable="com_samsung_accessory_atticmgr"/>
     <item drawable="com_sec_android_daemonapp"/>
+    <item drawable="com_caij_see"/>
+    <item drawable="com_x7890_shortcutcreator"/>
     <item drawable="com_sina_weibo"/>
     <item drawable="com_weico_international"/>
+    <item drawable="com_adsk_sketchbook"/>
+    <item drawable="com_smartisan_notes"/>
     <item drawable="com_nasoft_socmark"/>
     <item drawable="pl_solidexplorer2"/>
     <item drawable="com_spotify_music"/>
@@ -185,6 +206,7 @@
     <item drawable="com_xunlei_downloadprovider"/>
     <item drawable="com_wg_xvideos_app"/>
     <!-- Y -->
+    <item drawable="com_hltek_yaoyao"/>
     <!-- Z -->
     <item drawable="ru_zdevs_zarchiver_pro"/>
     <item drawable="com_zhihu_android"/>

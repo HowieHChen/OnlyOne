@@ -3,21 +3,29 @@
     <version>1</version>
     <!-- A -->
     <item drawable="com_android_bankabc"/>
+    <item drawable="com_alibaba_wireless"/>
     <item drawable="com_cainiao_wireless"/>
     <item drawable="com_alibaba_android_rimet"/>
     <item drawable="me_ele"/>
+    <item drawable="com_taobao_trip"/>
     <item drawable="com_taobao_idlefish"/>
     <item drawable="com_alicloud_databox"/>
     <item drawable="com_eg_android_alipaygphone"/>
     <item drawable="com_taobao_taobao"/>
+    <item drawable="com_taobao_htao_android"/>
     <item drawable="com_youku_phone"/>
     <item drawable="com_autonavi_minimap"/>
     <item drawable="com_absinthe_anywhere_"/>
+    <item drawable="com_apple_android_music"/>
     <!-- B -->
+    <item drawable="com_baidu_carlife"/>
     <item drawable="com_baidu_homework"/>
     <item drawable="com_baidu_baidumap"/>
     <item drawable="com_baidu_netdisk"/>
+    <item drawable="com_baidu_netdisk_samsung"/>
+    <item drawable="com_baidu_tieba"/>
     <item drawable="com_huanchengfly_tieba_post"/>
+    <item drawable="com_bankcomm_bankcomm"/>
     <item drawable="tv_danmaku_bili"/>
     <item drawable="tv_danmaku_bilibilihd"/>
     <item drawable="com_bilibili_app_in"/>
@@ -30,12 +38,15 @@
     <item drawable="com_chaoxing_mobile"/>
     <item drawable="com_chaoxing_mobile_wuhanuniversity"/>
     <item drawable="com_github_kr328_clash"/>
+    <item drawable="cmb_pb"/>
     <item drawable="com_sinovatech_unicom_ui"/>
     <item drawable="com_greenpoint_android_mc10086_activity"/>
     <item drawable="com_sunrise_scmbhc"/>
     <item drawable="com_xinhang_mobileclient"/>
     <item drawable="com_tmri_app_main"/>
     <item drawable="com_mobileticket"/>
+    <item drawable="cn_gov_pbc_dcep"/>
+    <item drawable="cn_gov_tax_its"/>
     <item drawable="com_coolapk_market"/>
     <item drawable="ctrip_android_view"/>
     <!-- D -->
@@ -61,17 +72,26 @@
     <item drawable="com_google_android_apps_translate"/>
     <item drawable="com_google_android_youtube"/>
     <!-- H -->
+    <item drawable="com_hunantv_imgo_activity"/>
+    <item drawable="com_hunantv_imgo_samsung"/>
     <item drawable="com_hupu_games"/>
     <item drawable="com_hupu_shihuo"/>
     <!-- I -->
+    <item drawable="com_icbc"/>
+    <item drawable="com_qiyi_video"/>
     <!-- J -->
+    <item drawable="com_jd_jrapp"/>
     <item drawable="com_jingdong_app_mall"/>
+    <item drawable="com_salt_music"/>
     <!-- K -->
     <item drawable="com_gotokeep_keep"/>
+    <item drawable="com_kugou_android"/>
     <item drawable="cn_kuwo_player"/>
     <!-- L -->
     <item drawable="cn_com_langeasy_langeasylexis"/>
     <item drawable="app_lawnchair"/>
+    <item drawable="io_legado_app_release"/>
+    <item drawable="com_absinthe_libchecker"/>
     <!-- M -->
     <item drawable="com_topjohnwu_magisk"/>
     <item drawable="com_sankuai_meituan"/>
@@ -102,6 +122,7 @@
     <item drawable="com_ryougifujino_purebook"/>
     <!-- Q -->
     <item drawable="com_mutangtech_qianji"/>
+    <item drawable="fm_qingting_qtradio"/>
     <item drawable="com_farplace_qingzhuo"/>
     <item drawable="com_quark_browser"/>
     <!-- R -->
@@ -118,10 +139,13 @@
     <item drawable="com_samsung_android_app_galaxyraw"/>
     <item drawable="ic_clock"/>
     <item drawable="ic_contact"/>
+    <item drawable="com_diotek_sec_lookup_dictionary"/>
+    <item drawable="com_samsung_android_app_edgetouch"/>
     <item drawable="ic_email"/>
     <item drawable="ic_myfiles"/>
     <item drawable="ic_s_finder"/>
     <item drawable="com_samsung_android_galaxycontinuity"/>
+    <item drawable="fm_qingting_customize_samsung"/>
     <item drawable="com_samsung_android_forest"/>
     <item drawable="ic_galaxy_shop"/>
     <item drawable="ic_gallery"/>
@@ -136,7 +160,10 @@
     <item drawable="ic_galaxycare"/>
     <item drawable="ic_message"/>
     <item drawable="ic_music"/>
+    <item drawable="com_banqu_samsung_music"/>
+    <item drawable="com_samsung_android_app_goodcatch"/>
     <item drawable="ic_notes"/>
+    <item drawable="com_samsung_android_sidegesturepad"/>
     <item drawable="com_samsung_android_samsungpass"/>
     <item drawable="ic_samsungpay"/>
     <item drawable="com_samsung_android_pentastic"/>
@@ -144,6 +171,7 @@
     <item drawable="ic_phone"/>
     <item drawable="com_samsung_android_ruler"/>
     <item drawable="com_samsung_android_app_sharelive"/>
+    <item drawable="com_mci_smagazine"/>
     <item drawable="ic_voicerecorder"/>
     <item drawable="com_samsung_android_app_reminder"/>
     <item drawable="ic_s_roaming"/>
@@ -151,6 +179,7 @@
     <item drawable="com_samsung_android_scloud"/>
     <item drawable="com_samsung_knox_securefolder"/>
     <item drawable="ic_settings"/>
+    <item drawable="com_jv_samsungeshop"/>
     <item drawable="com_sec_android_easymover"/>
     <item drawable="ic_smartmanager"/>
     <item drawable="com_samsung_android_oneconnect"/>
@@ -167,12 +196,15 @@
     <item drawable="com_samsung_android_gearrplugin"/>
     <item drawable="com_samsung_accessory_atticmgr"/>
     <item drawable="com_sec_android_daemonapp"/>
+    <item drawable="com_samsung_android_wonderland_wallpaper"/>
     <item drawable="com_caij_see"/>
+    <item drawable="moe_shizuku_privileged_api"/>
     <item drawable="com_x7890_shortcutcreator"/>
     <item drawable="com_sina_weibo"/>
     <item drawable="com_weico_international"/>
     <item drawable="com_adsk_sketchbook"/>
     <item drawable="com_smartisan_notes"/>
+    <item drawable="com_smzdm_client_android"/>
     <item drawable="com_nasoft_socmark"/>
     <item drawable="pl_solidexplorer2"/>
     <item drawable="com_spotify_music"/>
@@ -188,12 +220,15 @@
     <item drawable="com_tencent_tim"/>
     <item drawable="com_tencent_qqlive"/>
     <item drawable="com_tencent_mm"/>
+    <item drawable="com_tencent_mn"/>
+    <item drawable="com_tencent_wework"/>
     <item drawable="com_twitter_android"/>
     <!-- U -->
     <item drawable="com_umetrip_android_msky_app"/>
     <item drawable="com_unionpay"/>
     <!-- V -->
     <item drawable="mark_via"/>
+    <item drawable="mark_via_gp"/>
     <item drawable="com_achievo_vipshop"/>
     <!-- W -->
     <item drawable="com_suda_yzune_wakeupschedule_pro"/>
@@ -203,13 +238,16 @@
     <item drawable="com_xingin_xhs"/>
     <item drawable="com_xiaomi_hm_health"/>
     <item drawable="com_xiaomi_smarthome"/>
+    <item drawable="com_ximalaya_ting_android"/>
     <item drawable="com_xunlei_downloadprovider"/>
     <item drawable="com_wg_xvideos_app"/>
     <!-- Y -->
     <item drawable="com_hltek_yaoyao"/>
+    <item drawable="com_yipiao"/>
     <!-- Z -->
     <item drawable="ru_zdevs_zarchiver_pro"/>
     <item drawable="com_zhihu_android"/>
+    <item drawable="cn_xiaochuankeji_tieba"/>
     <!-- Dynamic -->
     <item drawable="sec_calendar_1"/>
     <item drawable="sec_calendar_2"/>

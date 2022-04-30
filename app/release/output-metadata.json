@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 4,
-      "versionName": "2.2",
-      "outputFile": "OnlyOne-4-2.2-release.apk"
+      "versionCode": 5,
+      "versionName": "2.3",
+      "outputFile": "OnlyOne-5-2.3-release.apk"
     }
   ],
   "elementType": "File"

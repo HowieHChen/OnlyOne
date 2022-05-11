@@ -2,7 +2,10 @@
 <resources>
     <version>1</version>
     <!-- A -->
+    <category title="A" />
     <item drawable="com_android_bankabc"/>
+    <item drawable="com_chunqiu_ahsp"/>
+    <item drawable="app_airmusic_trial"/>
     <item drawable="com_alibaba_wireless"/>
     <item drawable="com_cainiao_wireless"/>
     <item drawable="com_alibaba_android_rimet"/>
@@ -18,6 +21,7 @@
     <item drawable="com_absinthe_anywhere_"/>
     <item drawable="com_apple_android_music"/>
     <!-- B -->
+    <category title="B" />
     <item drawable="com_baidu_carlife"/>
     <item drawable="com_baidu_homework"/>
     <item drawable="com_baidu_baidumap"/>
@@ -29,15 +33,20 @@
     <item drawable="tv_danmaku_bili"/>
     <item drawable="tv_danmaku_bilibilihd"/>
     <item drawable="com_bilibili_app_in"/>
+    <item drawable="com_bilibili_bilithings"/>
+    <item drawable="me_gfuil_bmap"/>
     <item drawable="com_chinamworld_bocmbci"/>
     <item drawable="com_ss_android_article_news"/>
     <item drawable="com_ss_android_ugc_aweme"/>
     <!-- C -->
+    <category title="C" />
+    <item drawable="com_yuanwofei_cardemulator"/>
     <item drawable="com_yuanwofei_cardemulator_pro"/>
     <item drawable="com_chinamworld_main"/>
     <item drawable="com_chaoxing_mobile"/>
     <item drawable="com_chaoxing_mobile_wuhanuniversity"/>
     <item drawable="com_github_kr328_clash"/>
+    <item drawable="com_idaodan_clean_master"/>
     <item drawable="cmb_pb"/>
     <item drawable="com_sinovatech_unicom_ui"/>
     <item drawable="com_greenpoint_android_mc10086_activity"/>
@@ -50,49 +59,85 @@
     <item drawable="com_coolapk_market"/>
     <item drawable="ctrip_android_view"/>
     <!-- D -->
+    <category title="D" />
+    <item drawable="cn_deepink_reader"/>
     <item drawable="com_dianping_v1"/>
     <item drawable="com_douban_frodo"/>
     <item drawable="air_tv_douyu_android"/>
+    <item drawable="com_dirror_music"/>
     <item drawable="com_shizhuang_duapp"/>
     <item drawable="com_duokan_reader"/>
     <!-- E -->
+    <category title="E" />
+    <item drawable="cn_mrack_easyexpress2"/>
     <item drawable="com_hippo_ehviewer"/>
     <item drawable="tc_everphoto"/>
     <!-- F -->
     <!-- G -->
+    <category title="G" />
     <item drawable="com_tencent_jkchess"/>
     <item drawable="com_mojang_minecraftpe"/>
     <item drawable="com_yhhy_whrhx_bilibili"/>
     <item drawable="com_yhhy_whrhx_aligames"/>
     <item drawable="com_mihoyo_yuanshen"/>
     <item drawable="org_geogebra_android_calculator_suite"/>
+    <item drawable="com_google_android_apps_googleassistant"/>
+    <item drawable="com_google_android_inputmethod_latin"/>
+    <item drawable="com_google_android_calculator"/>
+    <item drawable="com_google_android_calendar"/>
     <item drawable="com_android_chrome"/>
+    <item drawable="com_google_android_apps_docs"/>
+    <item drawable="com_google_earth"/>
     <item drawable="com_google_android_play_games"/>
+    <item drawable="com_google_ar_lens"/>
+    <item drawable="com_google_android_gm"/>
+    <item drawable="com_google_android_apps_maps"/>
+    <item drawable="com_google_android_apps_magazines"/>
+    <item drawable="com_google_android_apps_subscriptions_red"/>
+    <item drawable="com_google_android_apps_photos"/>
     <item drawable="ic_playstore"/>
+    <item drawable="com_google_android_apps_podcasts"/>
+    <item drawable="com_google_android_googlequicksearchbox"/>
+    <item drawable="com_niksoftware_snapseed"/>
     <item drawable="com_google_android_apps_translate"/>
+    <item drawable="com_google_android_googlequicksearchbox_voicesearchactivity"/>
+    <item drawable="com_google_android_wearable_app"/>
+    <item drawable="com_google_android_wearable_app_cn"/>
     <item drawable="com_google_android_youtube"/>
     <!-- H -->
+    <category title="H" />
+    <item drawable="com_hlgys_hlg"/>
     <item drawable="com_hunantv_imgo_activity"/>
     <item drawable="com_hunantv_imgo_samsung"/>
     <item drawable="com_hupu_games"/>
     <item drawable="com_hupu_shihuo"/>
     <!-- I -->
+    <category title="I" />
     <item drawable="com_icbc"/>
     <item drawable="com_qiyi_video"/>
+    <item drawable="com_ruanmei_ithome"/>
     <!-- J -->
+    <category title="J" />
     <item drawable="com_jd_jrapp"/>
     <item drawable="com_jingdong_app_mall"/>
     <item drawable="com_salt_music"/>
     <!-- K -->
+    <category title="K" />
     <item drawable="com_gotokeep_keep"/>
     <item drawable="com_kugou_android"/>
     <item drawable="cn_kuwo_player"/>
     <!-- L -->
+    <category title="L" />
     <item drawable="cn_com_langeasy_langeasylexis"/>
+    <item drawable="com_tooyoung_lanzou"/>
     <item drawable="app_lawnchair"/>
     <item drawable="io_legado_app_release"/>
+    <item drawable="io_legado_play_release"/>
     <item drawable="com_absinthe_libchecker"/>
+    <item drawable="com_splashtop_streamer_addon_knox"/>
     <!-- M -->
+    <category title="M" />
+    <item drawable="com_magicalstory_cleaner"/>
     <item drawable="com_topjohnwu_magisk"/>
     <item drawable="com_sankuai_meituan"/>
     <item drawable="com_sankuai_meituan_takeoutnew"/>
@@ -110,24 +155,33 @@
     <item drawable="com_microsoft_todos"/>
     <item drawable="com_microsoft_office_word"/>
     <item drawable="com_microsoft_appmanager"/>
+    <item drawable="fm_moon_app"/>
     <item drawable="bin_mt_plus"/>
+    <item drawable="com_xjcheng_musictageditor"/>
     <item drawable="com_mxtech_videoplayer_pro"/>
     <!-- N -->
+    <category title="N" />
     <item drawable="com_youdao_dict"/>
     <item drawable="com_netease_cloudmusic"/>
     <!-- O -->
     <!-- P -->
+    <category title="P" />
+    <item drawable="com_iudesk_android_photo_editor"/>
     <item drawable="com_xunmeng_pinduoduo"/>
     <item drawable="com_sup_android_superb"/>
     <item drawable="com_ryougifujino_purebook"/>
     <!-- Q -->
+    <category title="Q" />
     <item drawable="com_mutangtech_qianji"/>
     <item drawable="fm_qingting_qtradio"/>
     <item drawable="com_farplace_qingzhuo"/>
     <item drawable="com_quark_browser"/>
     <!-- R -->
+    <item drawable="me_ash_reader"/>
     <!-- S -->
+    <category title="S" />
     <item drawable="com_litebyte_samhelper"/>
+    <item drawable="com_uzero_baimiao"/>
     <item drawable="eu_thedarken_sdm"/>
     <item drawable="com_samsung_android_arzone"/>
     <item drawable="ic_bixby"/>
@@ -154,6 +208,7 @@
     <item drawable="com_samsung_android_goodlock"/>
     <item drawable="ic_shealth"/>
     <item drawable="com_samsung_android_shealthmonitor"/>
+    <item drawable="com_samsung_android_shealthmonitors"/>
     <item drawable="ic_internet"/>
     <item drawable="com_samsung_android_app_simplesharing"/>
     <item drawable="com_samsung_android_mdx"/>
@@ -209,6 +264,7 @@
     <item drawable="pl_solidexplorer2"/>
     <item drawable="com_spotify_music"/>
     <!-- T -->
+    <category title="T" />
     <item drawable="org_telegram_messenger"/>
     <item drawable="com_tencent_mtt"/>
     <item drawable="com_tencent_qt_sns"/>
@@ -222,33 +278,62 @@
     <item drawable="com_tencent_mm"/>
     <item drawable="com_tencent_mn"/>
     <item drawable="com_tencent_wework"/>
+    <item drawable="github_tornaco_android_thanos"/>
+    <item drawable="github_tornaco_android_thanos_pro"/>
+    <item drawable="com_ifreedomer_timenote"/>
+    <item drawable="com_github_eprendre_tingshu"/>
+    <item drawable="com_advasoft_touchretouch"/>
     <item drawable="com_twitter_android"/>
     <!-- U -->
+    <category title="U" />
     <item drawable="com_umetrip_android_msky_app"/>
     <item drawable="com_unionpay"/>
     <!-- V -->
+    <category title="V" />
     <item drawable="mark_via"/>
     <item drawable="mark_via_gp"/>
     <item drawable="com_achievo_vipshop"/>
     <!-- W -->
+    <category title="W" />
+    <item drawable="com_suda_yzune_wakeupschedule"/>
     <item drawable="com_suda_yzune_wakeupschedule_pro"/>
+    <item drawable="com_wifi_link_wfys"/>
+    <item drawable="com_one_woodenletter"/>
     <item drawable="cn_wps_moffice_eng"/>
+    <item drawable="cn_wps_yun"/>
     <!-- X -->
+    <category title="X" />
     <item drawable="com_max_xiaoheihe"/>
     <item drawable="com_xingin_xhs"/>
     <item drawable="com_xiaomi_hm_health"/>
     <item drawable="com_xiaomi_smarthome"/>
     <item drawable="com_ximalaya_ting_android"/>
+    <item drawable="com_caict_xingchengka"/>
+    <item drawable="com_xuexiaoyi_xxy"/>
     <item drawable="com_xunlei_downloadprovider"/>
     <item drawable="com_wg_xvideos_app"/>
     <!-- Y -->
+    <category title="Y" />
     <item drawable="com_hltek_yaoyao"/>
     <item drawable="com_yipiao"/>
     <!-- Z -->
+    <category title="Z" />
     <item drawable="ru_zdevs_zarchiver_pro"/>
     <item drawable="com_zhihu_android"/>
+    <item drawable="com_linroid_zlive"/>
     <item drawable="cn_xiaochuankeji_tieba"/>
+    <!-- Special -->
+    <category title="Special" />
+    <item drawable="com_onlyone_onlyonestarter"/>
+    <item drawable="com_android_bluetooth"/>
+    <item drawable="com_android_bips"/>
+    <item drawable="com_google_android_gms"/>
+    <item drawable="com_google_android_tts"/>
+    <item drawable="com_sec_android_app_launcher"/>
+
     <!-- Dynamic -->
+    <category title="Dynamic" />
+    <item drawable="sec_clockpackage_dynamic"/>
     <item drawable="sec_calendar_1"/>
     <item drawable="sec_calendar_2"/>
     <item drawable="sec_calendar_3"/>
@@ -280,5 +365,35 @@
     <item drawable="sec_calendar_29"/>
     <item drawable="sec_calendar_30"/>
     <item drawable="sec_calendar_31"/>
-    <item drawable="sec_clockpackage_dynamic"/>
+    <item drawable="google_calendar_1"/>
+    <item drawable="google_calendar_2"/>
+    <item drawable="google_calendar_3"/>
+    <item drawable="google_calendar_4"/>
+    <item drawable="google_calendar_5"/>
+    <item drawable="google_calendar_6"/>
+    <item drawable="google_calendar_7"/>
+    <item drawable="google_calendar_8"/>
+    <item drawable="google_calendar_9"/>
+    <item drawable="google_calendar_10"/>
+    <item drawable="google_calendar_11"/>
+    <item drawable="google_calendar_12"/>
+    <item drawable="google_calendar_13"/>
+    <item drawable="google_calendar_14"/>
+    <item drawable="google_calendar_15"/>
+    <item drawable="google_calendar_16"/>
+    <item drawable="google_calendar_17"/>
+    <item drawable="google_calendar_18"/>
+    <item drawable="google_calendar_19"/>
+    <item drawable="google_calendar_20"/>
+    <item drawable="google_calendar_21"/>
+    <item drawable="google_calendar_22"/>
+    <item drawable="google_calendar_23"/>
+    <item drawable="google_calendar_24"/>
+    <item drawable="google_calendar_25"/>
+    <item drawable="google_calendar_26"/>
+    <item drawable="google_calendar_27"/>
+    <item drawable="google_calendar_28"/>
+    <item drawable="google_calendar_29"/>
+    <item drawable="google_calendar_30"/>
+    <item drawable="google_calendar_31"/>
 </resources>

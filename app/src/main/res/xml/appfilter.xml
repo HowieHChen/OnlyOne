@@ -17,10 +17,27 @@
     <calendar
         component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
         prefix="sec_calendar_" />
+    <calendar
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="google_calendar_" />
+    <calendar
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}"
+        prefix="google_calendar_" />
+    <calendar
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
+        prefix="google_calendar_" />
     <!-- Agricultural Bank of China -->
     <item
         component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="com_android_bankabc"/>
+    <!-- AH Video -->
+    <item
+        component="ComponentInfo{com.chunqiu.ahsp/com.androlua.Welcome}"
+        drawable="com_chunqiu_ahsp"/>
+    <!-- AirMusic Trial -->
+    <item
+        component="ComponentInfo{app.airmusic.trial/app.airmusic.activities.MainActivity}"
+        drawable="app_airmusic_trial"/>
     <!-- Ali Alibaba -->
     <item
         component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
@@ -59,9 +76,6 @@
     <!-- Ali Taobao -->
     <item
         component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
-        drawable="com_taobao_taobao" />
-    <item
-        component="ComponentInfo{com.taobao.htao.android/com.taobao.tao.welcome.Welcome}"
         drawable="com_taobao_taobao" />
     <!-- Ali Taobao Lite -->
     <item
@@ -138,6 +152,14 @@
     <item
         component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
         drawable="com_bilibili_app_in" />
+    <!-- Bilibili IoT -->
+    <item
+        component="ComponentInfo{com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity}"
+        drawable="com_bilibili_bilithings"/>
+    <!-- Bmap -->
+    <item
+        component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity6}"
+        drawable="me_gfuil_bmap"/>
     <!-- Bank of China -->
     <item
         component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
@@ -159,6 +181,10 @@
     <item
         component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
         drawable="com_ss_android_ugc_aweme" />
+    <!-- Card Emulator -->
+    <item
+        component="ComponentInfo{com.yuanwofei.cardemulator/com.yuanwofei.cardemulator.MainActivity}"
+        drawable="com_yuanwofei_cardemulator"/>
     <!-- Card Emulator Pro -->
     <item
         component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}"
@@ -179,6 +205,10 @@
     <item
         component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}"
         drawable="com_github_kr328_clash" />
+    <!-- Clean Master -->
+    <item
+        component="ComponentInfo{com.idaodan.clean.master/com.idaodan.clean.master.ui.activity.global.SplashActivity}"
+        drawable="com_idaodan_clean_master"/>
     <!-- China Merchants Bank -->
     <item
         component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
@@ -239,6 +269,10 @@
     <item
         component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}"
         drawable="ctrip_android_view"/>
+    <!-- Deepl Ink -->
+    <item
+        component="ComponentInfo{cn.deepink.reader/cn.deepink.reader.ui.HomeActivity}"
+        drawable="cn_deepink_reader"/>
     <!-- Dianping -->
     <item
         component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
@@ -251,6 +285,10 @@
     <item
         component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
         drawable="air_tv_douyu_android"/>
+    <!-- Dso Music -->
+    <item
+        component="ComponentInfo{com.dirror.music/com.dirror.music.ui.activity.SplashActivity}"
+        drawable="com_dirror_music"/>
     <!-- Du -->
     <item
         component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.SplashActivity}"
@@ -259,6 +297,10 @@
     <item
         component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}"
         drawable="com_duokan_reader"/>
+    <!-- Easy Express 2 -->
+    <item
+        component="ComponentInfo{cn.mrack.easyexpress2/cn.mrack.easyexpress2.activity.MainActivity}"
+        drawable="cn_mrack_easyexpress2"/>
     <!-- EhViewer -->
     <item
         component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}"
@@ -293,26 +335,128 @@
     <item
         component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}"
         drawable="org_geogebra_android_calculator_suite"/>
+    <!-- Google Assistant -->
+    <item
+        component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}"
+        drawable="com_google_android_apps_googleassistant" />
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}"
+        drawable="com_google_android_apps_googleassistant" />
+    <!-- Google Board -->
+    <item
+        component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}"
+        drawable="com_google_android_inputmethod_latin" />
+    <item
+        component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
+        drawable="com_google_android_inputmethod_latin" />
+    <!-- Google Calculator -->
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="com_google_android_calculator" />
+    <!-- Google Calendar -->
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="com_google_android_calendar" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
+        drawable="com_google_android_calendar" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}"
+        drawable="com_google_android_calendar" />
     <!-- Google Chrome -->
     <item
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
         drawable="com_android_chrome" />
+    <!-- Google Drive -->
+    <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="com_google_android_apps_docs" />
+    <!-- Google Earth -->
+    <item
+        component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}"
+        drawable="com_google_earth" />
     <!-- Google Play Games -->
     <item
         component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
         drawable="com_google_android_play_games" />
+    <!-- Google Lens -->
+    <item
+        component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
+        drawable="com_google_ar_lens"/>
+    <!-- Google Mail -->
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="com_google_android_gm" />
+    <!-- Google Maps -->
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="com_google_android_apps_maps" />
+    <!-- Google News -->
+    <item
+        component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
+        drawable="com_google_android_apps_magazines" />
+    <!-- Google One -->
+    <item
+        component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}"
+        drawable="com_google_android_apps_subscriptions_red"/>
+    <!-- Google Photos -->
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="com_google_android_apps_photos" />
+    <item
+        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}"
+        drawable="com_google_android_apps_photos" />
+    <item
+        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}"
+        drawable="com_google_android_apps_photos" />
     <!-- Google Play Store -->
     <item
         component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
         drawable="ic_playstore" />
+    <!-- Google Podcasts -->
+    <item
+        component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}"
+        drawable="com_google_android_apps_podcasts" />
+    <!-- Google Search -->
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="com_google_android_googlequicksearchbox" />
+    <!-- Google Snapseed -->
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="com_niksoftware_snapseed" />
     <!-- Google Translate -->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="com_google_android_apps_translate" />
+    <!-- Google Voice Search -->
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
+        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.DspHotwordVoiceSearchActivity}"
+        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.RecordedVoiceSearchActivity}"
+        drawable="com_google_android_googlequicksearchbox_voicesearchactivity" />
+    <!-- Google WearOS -->
+    <item
+        component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity}"
+        drawable="com_google_android_wearable_app" />
+    <item
+        component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}"
+        drawable="com_google_android_wearable_app" />
+    <item
+        component="ComponentInfo{com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity}"
+        drawable="com_google_android_wearable_app_cn" />
     <!-- Google Youtube -->
     <item
         component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
         drawable="com_google_android_youtube" />
+    <!-- Huolongguo Video -->
+    <item
+        component="ComponentInfo{com.hlgys.hlg/com.junyue.video.SplashActivity}"
+        drawable="com_hlgys_hlg"/>
     <!-- Hunan TV -->
     <item
         component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.SplashActivity}"
@@ -336,6 +480,10 @@
     <item
         component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
         drawable="com_qiyi_video"/>
+    <!-- IT Home -->
+    <item
+        component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.ui.MainActivity}"
+        drawable="com_ruanmei_ithome"/>
     <!-- JD Finance -->
     <item
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
@@ -373,6 +521,10 @@
     <item
         component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}"
         drawable="cn_com_langeasy_langeasylexis"/>
+    <!-- Lanzou -->
+    <item
+        component="ComponentInfo{com.tooyoung.lanzou/com.androlua.Welcome}"
+        drawable="com_tooyoung_lanzou"/>
     <!-- Lawnchair -->
     <item
         component="ComponentInfo{app.lawnchair/app.lawnchair.LawnchairLauncher}"
@@ -381,10 +533,22 @@
     <item
         component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher5}"
         drawable="io_legado_app_release"/>
+    <!-- Legado Read Pro -->
+    <item
+        component="ComponentInfo{io.legado.play.release/io.legado.app.ui.welcome.WelcomeActivity}"
+        drawable="io_legado_play_release"/>
     <!-- LibChecker -->
     <item
         component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}"
         drawable="com_absinthe_libchecker"/>
+    <!-- Lycan -->
+    <item
+        component="ComponentInfo{com.splashtop.streamer.addon.knox/com.ccswe.appmanager.activities.StartupActivity}"
+        drawable="com_splashtop_streamer_addon_knox"/>
+    <!-- Magical Cleaner -->
+    <item
+        component="ComponentInfo{com.magicalstory.cleaner/com.magicalstory.cleaner.main.MainActivity}"
+        drawable="com_magicalstory_cleaner"/>
     <!-- Magisk -->
     <item
         component="ComponentInfo{com.topjohnwu.magisk/a.c}"
@@ -489,10 +653,18 @@
     <item
         component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.fre.ui.FreActivity}"
         drawable="com_microsoft_appmanager" />
+    <!-- Moon FM -->
+    <item
+        component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}"
+        drawable="fm_moon_app"/>
     <!-- MT Manager -->
     <item
         component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}"
         drawable="bin_mt_plus"/>
+    <!-- Music Tag -->
+    <item
+        component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}"
+        drawable="com_xjcheng_musictageditor"/>
     <!-- Mx Player -->
     <item
         component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}"
@@ -520,6 +692,10 @@
     <item
         component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
         drawable="com_netease_cloudmusic"/>
+    <!-- Photo Editor -->
+    <item
+        component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}"
+        drawable="com_iudesk_android_photo_editor"/>
     <!-- Pinduoduo -->
     <item
         component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
@@ -548,10 +724,18 @@
     <item
         component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}"
         drawable="com_quark_browser"/>
+    <!-- Read You -->
+    <item
+        component="ComponentInfo{me.ash.reader/me.ash.reader.MainActivity}"
+        drawable="me_ash_reader"/>
     <!-- Sam Helper -->
     <item
         component="ComponentInfo{com.litebyte.samhelper/com.litebyte.samhelper.SamHelper}"
         drawable="com_litebyte_samhelper"/>
+    <!-- ScanScan -->
+    <item
+        component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}"
+        drawable="com_uzero_baimiao"/>
     <!-- SD Maid -->
     <item
         component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}"
@@ -782,6 +966,9 @@
     <item
         component="ComponentInfo{com.samsung.android.shealthmonitor/com.samsung.android.shealthmonitor.ui.activity.MainActivity}"
         drawable="com_samsung_android_shealthmonitor"/>
+    <item
+        component="ComponentInfo{com.samsung.android.shealthmonitors/com.samsung.android.shealthmonitor.ui.activity.MainActivity}"
+        drawable="com_samsung_android_shealthmonitors"/>
     <!-- Samsung Internet -->
     <item
         component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
@@ -1173,6 +1360,26 @@
     <item
         component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}"
         drawable="com_tencent_wework"/>
+    <!-- Thanox -->
+    <item
+        component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}"
+        drawable="github_tornaco_android_thanos"/>
+    <!-- Thanox Pro -->
+    <item
+        component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.main.NavActivity}"
+        drawable="github_tornaco_android_thanos_pro"/>
+    <!-- Time Note -->
+    <item
+        component="ComponentInfo{com.ifreedomer.timenote/com.ifreedomer.timenote.activity.LaunchActivity}"
+        drawable="com_ifreedomer_timenote"/>
+    <!-- Tingshu -->
+    <item
+        component="ComponentInfo{com.github.eprendre.tingshu/com.github.eprendre.tingshu.ui.SplashActivity}"
+        drawable="com_github_eprendre_tingshu"/>
+    <!-- TouchRetouch -->
+    <item
+        component="ComponentInfo{com.advasoft.touchretouch/com.advasoft.touchretouch4.MainActivityCH}"
+        drawable="com_advasoft_touchretouch"/>
     <!-- Twitter -->
     <item
         component="ComponentInfo{com.twitteer.android/com.twitter.android.StartActivity}"
@@ -1227,17 +1434,29 @@
     <!-- Wakeup Schedule -->
     <item
         component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity}"
-        drawable="com_suda_yzune_wakeupschedule_pro" />
+        drawable="com_suda_yzune_wakeupschedule" />
     <item
         component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.view.activity.ScheduleActivity}"
-        drawable="com_suda_yzune_wakeupschedule_pro" />
+        drawable="com_suda_yzune_wakeupschedule" />
     <item
         component="ComponentInfo{com.suda.yzune.wakeupschedule.pro/com.suda.yzune.wakeupschedule.SplashActivity}"
         drawable="com_suda_yzune_wakeupschedule_pro" />
+    <!-- Wifi Link -->
+    <item
+        component="ComponentInfo{com.wifi.link.wfys/com.linksure.browser.activity.SplashActivity}"
+        drawable="com_wifi_link_wfys"/>
+    <!-- WoodenLetter -->
+    <item
+        component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}"
+        drawable="com_one_woodenletter"/>
     <!-- WPS -->
     <item
         component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
         drawable="cn_wps_moffice_eng"/>
+    <!-- WPS Yun -->
+    <item
+        component="ComponentInfo{cn.wps.yun/cn.wps.yun.start.StartActivity}"
+        drawable="cn_wps_yun"/>
     <!-- Xiaoheihe -->
     <item
         component="ComponentInfo{com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity}"
@@ -1258,6 +1477,14 @@
     <item
         component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}"
         drawable="com_ximalaya_ting_android"/>
+    <!-- XingChengKa -->
+    <item
+        component="ComponentInfo{com.caict.xingchengka/com.caict.xingchengka.activity.Splash}"
+        drawable="com_caict_xingchengka"/>
+    <!-- Xuexiaoyi -->
+    <item
+        component="ComponentInfo{com.xuexiaoyi.xxy/com.xuexiaoyi.entrance.splash.SplashActivity}"
+        drawable="com_xuexiaoyi_xxy"/>
     <!-- Xunlei -->
     <item
         component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}"
@@ -1309,8 +1536,18 @@
     <item
         component="ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity}"
         drawable="com_zhihu_android" />
+    <!-- Zlive -->
+    <item
+        component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}"
+        drawable="com_linroid_zlive"/>
     <!-- Zuiyou -->
     <item
         component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}"
         drawable="cn_xiaochuankeji_tieba"/>
+
+    <!-- Special -->
+    <!-- Only One Starter -->
+    <item
+        component="ComponentInfo{com.onlyone.onlyonestarter/com.onlyone.onlyonestarter.MainActivity}"
+        drawable="com_onlyone_onlyonestarter"/>
 </resources>

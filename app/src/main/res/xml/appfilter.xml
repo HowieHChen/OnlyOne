@@ -138,6 +138,10 @@
     <item
         component="ComponentInfo{com.baidu.netdisk.samsung/com.baidu.netdisk.ui.DefaultMainActivity}"
         drawable="com_baidu_netdisk_samsung"/>
+    <!-- Baidu Search -->
+    <item
+        component="ComponentInfo{com.baidu.searchbox/com.baidu.searchbox.SplashActivity}"
+        drawable="com_baidu_searchbox"/>
     <!-- Baidu Tieba -->
     <item
         component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.tblauncher.MainTabActivity}"
@@ -201,10 +205,10 @@
         drawable="com_ss_android_ugc_aweme" />
     <item
         component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}"
-        drawable="com_ss_android_ugc_aweme" />
+        drawable="com_ss_android_ugc_trill" />
     <item
         component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
-        drawable="com_ss_android_ugc_aweme" />
+        drawable="com_zhiliaoapp_musically" />
     <!-- Card Emulator -->
     <item
         component="ComponentInfo{com.yuanwofei.cardemulator/com.yuanwofei.cardemulator.MainActivity}"
@@ -217,6 +221,14 @@
     <item
         component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
         drawable="com_chinamworld_main"/>
+    <!-- CCTV Yangshipin -->
+    <item
+        component="ComponentInfo{com.cctv.yangshipin.app.androidp/com.tencent.videolite.android.ui.SplashActivity}"
+        drawable="com_cctv_yangshipin_app_androidp"/>
+    <!-- Cellular Pro -->
+    <item
+        component="ComponentInfo{make.more.r2d2.cellular_pro/make.more.r2d2.cellular_pro.activity.SplashGuideActivity}"
+        drawable="make_more_r2d2_cellular_pro"/>
     <!-- Chaoxing Mobile -->
     <item
         component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
@@ -381,10 +393,18 @@
     <item
         component="ComponentInfo{com.xy.td/com.iapp.app.logoActivity}"
         drawable="com_xy_td"/>
+    <!-- FiLMiC Pro -->
+    <item
+        component="ComponentInfo{com.filmic.filmicpro/com.filmic.activity.FilmicActivity}"
+        drawable="com_filmic_filmicpro"/>
     <!-- FIMO -->
     <item
         component="ComponentInfo{com.fimo.camera/com.fimo.camera.app.StartActivity}"
         drawable="com_fimo_camera"/>
+    <!-- FireFox -->
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="org_mozilla_firefox" />
     <!-- Float Tube -->
     <item
         component="ComponentInfo{com.xpp.tubeAssistant/com.xpp.tubeAssistant.MainActivity}"
@@ -436,8 +456,12 @@
         component="ComponentInfo{com.kurogame.haru.aligames/com.haru.herousdk.SplashActivity}"
         drawable="com_kurogame_haru_aligames"/>
     <item
-        component="ComponentInfo{com.kurogame.haru.aligames/com.haru.herousdk.SplashActivity}"
+        component="ComponentInfo{com.kurogame.haru.bilibili/com.haru.herousdk.SplashActivity}"
         drawable="com_kurogame_haru_bilibili"/>
+    <!-- Geometric Weather -->
+    <item
+        component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}"
+        drawable="wangdaye_com_geometricweather"/>
     <!-- GeoGebra -->
     <item
         component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}"
@@ -449,6 +473,10 @@
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}"
         drawable="com_google_android_apps_googleassistant" />
+    <!-- Google Authenticator -->
+    <item
+        component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
+        drawable="com_google_android_apps_authenticator2"/>
     <!-- Google Board -->
     <item
         component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}"
@@ -572,10 +600,22 @@
     <item
         component="ComponentInfo{com.babycloud.hanju/com.babycloud.hanju.ui.activity.WelcomeActivity}"
         drawable="com_babycloud_hanju"/>
+    <!-- Hex -->
+    <item
+        component="ComponentInfo{project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity}"
+        drawable="project_vivid_hex_bodhi"/>
+    <!-- HiByMusic -->
+    <item
+        component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}"
+        drawable="com_hiby_music"/>
     <!-- Huolongguo Video -->
     <item
         component="ComponentInfo{com.hlgys.hlg/com.junyue.video.SplashActivity}"
         drawable="com_hlgys_hlg"/>
+    <!-- Huawei WeLink -->
+    <item
+        component="ComponentInfo{com.huawei.welink/huawei.w3.ui.welcome.W3SplashScreenActivity}"
+        drawable="com_huawei_welink"/>
     <!-- Hunan TV -->
     <item
         component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.SplashActivity}"
@@ -583,6 +623,10 @@
     <item
         component="ComponentInfo{com.hunantv.imgo.samsung/com.hunantv.imgo.activity.SplashActivity}"
         drawable="com_hunantv_imgo_samsung"/>
+    <!-- Huolala -->
+    <item
+        component="ComponentInfo{com.lalamove.huolala.client/com.lalamove.huolala.main.SplashActivity}"
+        drawable="com_lalamove_huolala_client"/>
     <!-- Hupu -->
     <item
         component="ComponentInfo{com.hupu.games/com.hupu.games.launcher.StartUpActivity}"
@@ -591,10 +635,18 @@
     <item
         component="ComponentInfo{com.hupu.shihuo/com.shizhi.shihuoapp.module.main.ui.welcome.WelcomeActivity}"
         drawable="com_hupu_shihuo"/>
+    <!-- Huya Live -->
+    <item
+        component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}"
+        drawable="com_duowan_kiwi"/>
     <!-- Industrial and Commercial Bank of China -->
     <item
         component="ComponentInfo{com.icbc/com.icbc.activity.init.NewLoadingActivity}"
         drawable="com_icbc"/>
+    <!-- iFlyTek IME -->
+    <item
+        component="ComponentInfo{com.iflytek.inputmethod/com.iflytek.inputmethod.LauncherActivity}"
+        drawable="com_iflytek_inputmethod"/>
     <!-- Iqiyi -->
     <item
         component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
@@ -632,6 +684,10 @@
     <item
         component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}"
         drawable="com_yek_android_kfc_activitys"/>
+    <!-- Kuaishou -->
+    <item
+        component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
+        drawable="com_smile_gifmaker"/>
     <!-- Kugou -->
     <item
         component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}"
@@ -712,6 +768,10 @@
     <item
         component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}"
         drawable="com_sankuai_meituan_takeoutnew"/>
+    <!-- Meta Instagram -->
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="com_instagram_android" />
     <!-- Microsoft Authenticator -->
     <item
         component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}"
@@ -796,10 +856,18 @@
     <item
         component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
         drawable="com_mihoyo_hyperion"/>
+    <!-- MissLee -->
+    <item
+        component="ComponentInfo{cn.litiaotiao.app/com.litiaotiao.app.LauncherActivity}"
+        drawable="cn_litiaotiao_app"/>
     <!-- MJXQ -->
     <item
         component="ComponentInfo{com.mjxq.app/com.mjxq.app.MainActivity}"
         drawable="com_mjxq_app"/>
+    <!-- MOJi Dict -->
+    <item
+        component="ComponentInfo{com.mojitec.mojidict/com.mojitec.mojidict.ui.SplashActivity}"
+        drawable="com_mojitec_mojidict"/>
     <!-- Moon Reader -->
     <item
         component="ComponentInfo{com.flyersoft.moonreader/com.flyersoft.moonreader.ActivityMain}"
@@ -887,6 +955,18 @@
     <item
         component="ComponentInfo{com.sup.android.superb/com.sup.android.base.MainActivity}"
         drawable="com_sup_android_superb"/>
+    <!-- PixEz -->
+    <item
+        component="ComponentInfo{com.perol.play.pixez/com.perol.pixez.MainActivity}"
+        drawable="com_perol_play_pixez"/>
+    <!-- Pixiv -->
+    <item
+        component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}"
+        drawable="jp_pxv_android"/>
+    <!-- Poweramp -->
+    <item
+        component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive}"
+        drawable="com_maxmpz_audioplayer"/>
     <!-- Pure Book -->
     <item
         component="ComponentInfo{com.ryougifujino.purebook/com.ryougifujino.purebook.universal.MainActivity}"
@@ -1404,6 +1484,10 @@
     <item
         component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}"
         drawable="com_caij_see"/>
+    <!-- Shaft -->
+    <item
+        component="ComponentInfo{ceui.lisa.pixiv/ceui.lisa.activities.MainActivity}"
+        drawable="ceui_lisa_pixiv"/>
     <!-- Shizuku -->
     <item
         component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}"
@@ -1412,10 +1496,18 @@
     <item
         component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}"
         drawable="com_hengye_share"/>
+    <!-- Shazam -->
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="com_shazam_android"/>
     <!-- Shortcut Creator -->
     <item
         component="ComponentInfo{com.x7890.shortcutcreator/com.x7890.shortcutcreator.AppListActivity}"
         drawable="com_x7890_shortcutcreator"/>
+    <!-- Shuqi -->
+    <item
+        component="ComponentInfo{com.shuqi.controller/com.shuqi.activity.SplashActivity}"
+        drawable="com_shuqi_controller"/>
     <!-- Sina Weibo -->
     <item
         component="ComponentInfo{com.sina.weibo/com.sina.weibo.MainTabActivity}"
@@ -1461,6 +1553,10 @@
     <item
         component="ComponentInfo{com.nasoft.socmark/com.nasoft.socmark.ui.MainActivity}"
         drawable="com_nasoft_socmark"/>
+    <!-- Sohu IME -->
+    <item
+        component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}"
+        drawable="com_sohu_inputmethod_sogou"/>
     <!-- Solid Explorer -->
     <item
         component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}"
@@ -1510,6 +1606,10 @@
     <item
         component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}"
         drawable="com_tencent_androidqqmail"/>
+    <!-- Tencent Maps -->
+    <item
+        component="ComponentInfo{com.tencent.map/com.tencent.map.WelcomeActivity}"
+        drawable="com_tencent_map"/>
     <!-- Tencent Meeting -->
     <item
         component="ComponentInfo{com.tencent.wemeet.app/com.tencent.wemeet.app.StartupActivity}"
@@ -1573,6 +1673,10 @@
     <item
         component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.main.NavActivity}"
         drawable="github_tornaco_android_thanos_pro"/>
+    <!-- Tianding -->
+    <item
+        component="ComponentInfo{com.blwy.zjh/com.blwy.zjh.ui.activity.user.GuideActivity}"
+        drawable="com_blwy_zjh"/>
     <!-- Time Note -->
     <item
         component="ComponentInfo{com.ifreedomer.timenote/com.ifreedomer.timenote.activity.LaunchActivity}"
@@ -1585,6 +1689,10 @@
     <item
         component="ComponentInfo{com.advasoft.touchretouch/com.advasoft.touchretouch4.MainActivityCH}"
         drawable="com_advasoft_touchretouch"/>
+    <!-- Twitch -->
+    <item
+        component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}"
+        drawable="tv_twitch_android_app" />
     <!-- Twitter -->
     <item
         component="ComponentInfo{com.twitteer.android/com.twitter.android.StartActivity}"
@@ -1698,6 +1806,10 @@
     <item
         component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}"
         drawable="com_xunlei_downloadprovider"/>
+    <!-- Xuexi Qiangguo -->
+    <item
+        component="ComponentInfo{cn.xuexi.android/com.alibaba.android.rimet.biz.SplashActivity}"
+        drawable="cn_xuexi_android"/>
     <!-- XVideos -->
     <item
         component="ComponentInfo{com.wg.xvideos.app/com.xvideos.common.activities.DefaultActivity}"
@@ -1714,6 +1826,10 @@
     <item
         component="ComponentInfo{com.yipiao/com.zt.main.entrance.MainActivity}"
         drawable="com_yipiao"/>
+    <!-- Youdu -->
+    <item
+        component="ComponentInfo{im.xinda.youdu/im.xinda.youdu.ui.activities.DefaultActivity}"
+        drawable="im_xinda_youdu"/>
     <!-- ZArchiver -->
     <item
         component="ComponentInfo{ru.zdevs.zarchiver/com.aditya.filebrowser.WelcomeActivity}"

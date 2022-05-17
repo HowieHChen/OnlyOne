@@ -31,6 +31,7 @@
     <item drawable="com_baidu_baidumap"/>
     <item drawable="com_baidu_netdisk"/>
     <item drawable="com_baidu_netdisk_samsung"/>
+    <item drawable="com_baidu_searchbox"/>
     <item drawable="com_baidu_tieba"/>
     <item drawable="com_huanchengfly_tieba_post"/>
     <item drawable="com_bankcomm_bankcomm"/>
@@ -44,11 +45,15 @@
     <item drawable="me_piebridge_brevent"/>
     <item drawable="com_ss_android_article_news"/>
     <item drawable="com_ss_android_ugc_aweme"/>
+    <item drawable="com_ss_android_ugc_trill"/>
+    <item drawable="com_zhiliaoapp_musically"/>
     <!-- C -->
     <category title="C" />
     <item drawable="com_yuanwofei_cardemulator"/>
     <item drawable="com_yuanwofei_cardemulator_pro"/>
     <item drawable="com_chinamworld_main"/>
+    <item drawable="com_cctv_yangshipin_app_androidp"/>
+    <item drawable="make_more_r2d2_cellular_pro"/>
     <item drawable="com_chaoxing_mobile"/>
     <item drawable="com_chaoxing_mobile_wuhanuniversity"/>
     <item drawable="com_chinamobile_mcloud"/>
@@ -91,7 +96,9 @@
     <!-- F -->
     <item drawable="com_dragon_read"/>
     <item drawable="com_xy_td"/>
+    <item drawable="com_filmic_filmicpro"/>
     <item drawable="com_fimo_camera"/>
+    <item drawable="org_mozilla_firefox"/>
     <item drawable="com_xpp_tubeassistant"/>
     <!-- G -->
     <category title="G" />
@@ -107,8 +114,10 @@
     <item drawable="com_mihoyo_yuanshen"/>
     <item drawable="com_kurogame_haru_bilibili"/>
     <item drawable="com_kurogame_haru_aligames"/>
+    <item drawable="wangdaye_com_geometricweather"/>
     <item drawable="org_geogebra_android_calculator_suite"/>
     <item drawable="com_google_android_apps_googleassistant"/>
+    <item drawable="com_google_android_apps_authenticator2"/>
     <item drawable="com_google_android_inputmethod_latin"/>
     <item drawable="com_google_android_calculator"/>
     <item drawable="com_google_android_calendar"/>
@@ -136,14 +145,20 @@
     <!-- H -->
     <category title="H" />
     <item drawable="com_babycloud_hanju"/>
+    <item drawable="project_vivid_hex_bodhi"/>
+    <item drawable="com_hiby_music"/>
     <item drawable="com_hlgys_hlg"/>
+    <item drawable="com_huawei_welink"/>
     <item drawable="com_hunantv_imgo_activity"/>
     <item drawable="com_hunantv_imgo_samsung"/>
+    <item drawable="com_lalamove_huolala_client"/>
     <item drawable="com_hupu_games"/>
     <item drawable="com_hupu_shihuo"/>
+    <item drawable="com_duowan_kiwi"/>
     <!-- I -->
     <category title="I" />
     <item drawable="com_icbc"/>
+    <item drawable="com_iflytek_inputmethod"/>
     <item drawable="com_qiyi_video"/>
     <item drawable="com_ruanmei_ithome"/>
     <!-- J -->
@@ -155,6 +170,7 @@
     <category title="K" />
     <item drawable="com_gotokeep_keep"/>
     <item drawable="com_yek_android_kfc_activitys"/>
+    <item drawable="com_smile_gifmaker"/>
     <item drawable="com_kugou_android"/>
     <item drawable="cn_kuwo_player"/>
     <!-- L -->
@@ -176,6 +192,7 @@
     <item drawable="com_mt_mtxx_mtxx"/>
     <item drawable="com_sankuai_meituan"/>
     <item drawable="com_sankuai_meituan_takeoutnew"/>
+    <item drawable="com_instagram_android"/>
     <item drawable="com_azure_authenticator"/>
     <item drawable="com_microsoft_emmx"/>
     <item drawable="com_microsoft_office_excel"/>
@@ -191,7 +208,9 @@
     <item drawable="com_microsoft_office_word"/>
     <item drawable="com_microsoft_appmanager"/>
     <item drawable="com_mihoyo_hyperion"/>
+    <item drawable="cn_litiaotiao_app"/>
     <item drawable="com_mjxq_app"/>
+    <item drawable="com_mojitec_mojidict"/>
     <item drawable="com_flyersoft_moonreader"/>
     <item drawable="com_flyersoft_moonreaderp"/>
     <item drawable="fm_moon_app"/>
@@ -215,6 +234,9 @@
     <item drawable="com_iudesk_android_photo_editor"/>
     <item drawable="com_xunmeng_pinduoduo"/>
     <item drawable="com_sup_android_superb"/>
+    <item drawable="com_perol_play_pixez"/>
+    <item drawable="jp_pxv_android"/>
+    <item drawable="com_maxmpz_audioplayer"/>
     <item drawable="com_ryougifujino_purebook"/>
     <!-- Q -->
     <category title="Q" />
@@ -300,9 +322,12 @@
     <item drawable="com_sec_android_daemonapp"/>
     <item drawable="com_samsung_android_wonderland_wallpaper"/>
     <item drawable="com_caij_see"/>
+    <item drawable="ceui_lisa_pixiv"/>
     <item drawable="moe_shizuku_privileged_api"/>
     <item drawable="com_hengye_share"/>
+    <item drawable="com_shazam_android"/>
     <item drawable="com_x7890_shortcutcreator"/>
+    <item drawable="com_shuqi_controller"/>
     <item drawable="com_sina_weibo"/>
     <item drawable="com_weico_international"/>
     <item drawable="com_adsk_sketchbook"/>
@@ -310,6 +335,7 @@
     <item drawable="com_smzdm_client_android"/>
     <item drawable="com_nasoft_socmark"/>
     <item drawable="pl_solidexplorer2"/>
+    <item drawable="com_sohu_inputmethod_sogou"/>
     <item drawable="com_spotify_music"/>
     <item drawable="com_valvesoftware_android_steam_community"/>
     <!-- T -->
@@ -321,6 +347,7 @@
     <item drawable="com_tencent_karaoke"/>
     <item drawable="com_tencent_qt_qtl"/>
     <item drawable="com_tencent_androidqqmail"/>
+    <item drawable="com_tencent_map"/>
     <item drawable="com_tencent_wemeet_app"/>
     <item drawable="com_tencent_qqmusic"/>
     <item drawable="com_tencent_mobileqq"/>
@@ -333,9 +360,11 @@
     <item drawable="com_tencent_gamehelper_smoba"/>
     <item drawable="github_tornaco_android_thanos"/>
     <item drawable="github_tornaco_android_thanos_pro"/>
+    <item drawable="com_blwy_zjh"/>
     <item drawable="com_ifreedomer_timenote"/>
     <item drawable="com_github_eprendre_tingshu"/>
     <item drawable="com_advasoft_touchretouch"/>
+    <item drawable="tv_twitch_android_app"/>
     <item drawable="com_twitter_android"/>
     <!-- U -->
     <category title="U" />
@@ -365,12 +394,14 @@
     <item drawable="com_caict_xingchengka"/>
     <item drawable="com_xuexiaoyi_xxy"/>
     <item drawable="com_xunlei_downloadprovider"/>
+    <item drawable="cn_xuexi_android"/>
     <item drawable="com_wg_xvideos_app"/>
     <!-- Y -->
     <category title="Y" />
     <item drawable="com_hltek_yaoyao"/>
     <item drawable="com_zjwh_android_wh_physicalfitness"/>
     <item drawable="com_yipiao"/>
+    <item drawable="im_xinda_youdu"/>
     <!-- Z -->
     <category title="Z" />
     <item drawable="ru_zdevs_zarchiver_pro"/>

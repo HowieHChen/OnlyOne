@@ -99,6 +99,10 @@
     <item
         component="ComponentInfo{com.autonavi.minimap/com.autonavi.minimap.Splashy}"
         drawable="com_autonavi_minimap" />
+    <!-- Anpei -->
+    <item
+        component="ComponentInfo{com.xuebaeasy.anpei/com.xuebaeasy.anpei.ui.activity.SplashActivity}"
+        drawable="com_xuebaeasy_anpei"/>
     <!-- Anywhere -->
     <item
         component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}"
@@ -209,6 +213,13 @@
     <item
         component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
         drawable="com_zhiliaoapp_musically" />
+    <!-- CamScanner -->
+    <item
+        component="ComponentInfo{com.intsig.camscanner_cn/com.intsig.camscanner.launcher.WelcomeDefaultActivity}"
+        drawable="com_intsig_camscanner_cn"/>
+    <item
+        component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}"
+        drawable="com_intsig_camscanner"/>
     <!-- Card Emulator -->
     <item
         component="ComponentInfo{com.yuanwofei.cardemulator/com.yuanwofei.cardemulator.MainActivity}"
@@ -345,6 +356,10 @@
     <item
         component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
         drawable="com_dianping_v1"/>
+    <!-- Didi Rider -->
+    <item
+        component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}"
+        drawable="com_sdu_didi_psnger"/>
     <!-- Digit Tail -->
     <item
         component="ComponentInfo{com.funinput.digit/com.funinput.digit.activity.MainActivity}"
@@ -436,6 +451,10 @@
     <item
         component="ComponentInfo{com.yongshi.tenojo.ys/com.mimir.sdk.UAMain}"
         drawable="com_yongshi_tenojo_ys"/>
+    <!-- Game TTAXC -->
+    <item
+        component="ComponentInfo{com.tencent.peng/com.tencent.peng.RedGame}"
+        drawable="com_tencent_peng"/>
     <!-- Game Wuhuihuaxia -->
     <item
         component="ComponentInfo{com.yhhy.whrhx.bilibili/com.tpf.sdk.activity.TPFSplashActivity}"
@@ -676,6 +695,10 @@
     <item
         component="ComponentInfo{com.salt.music/com.salt.music.ui.MainActivity}"
         drawable="com_salt_music"/>
+    <!-- JJWXC Reader -->
+    <item
+        component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppPrivacyActivity}"
+        drawable="com_jjwxc_reader"/>
     <!-- Keep -->
     <item
         component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}"
@@ -724,6 +747,10 @@
     <item
         component="ComponentInfo{com.lptiyu.tanke/com.lptiyu.tanke.activities.splash.SplashActivity}"
         drawable="com_lptiyu_tanke"/>
+    <!-- Liancheng Reader -->
+    <item
+        component="ComponentInfo{com.nine.NovelReader/com.nine.NovelReader.UI.Activity.MainHomeActivity.SplashActivity}"
+        drawable="com_nine_novelreader"/>
     <!-- LibChecker -->
     <item
         component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}"
@@ -768,6 +795,10 @@
     <item
         component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}"
         drawable="com_sankuai_meituan_takeoutnew"/>
+    <!-- Meiyou -->
+    <item
+        component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.SeeyouActivity}"
+        drawable="com_lingan_seeyou"/>
     <!-- Meta Instagram -->
     <item
         component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
@@ -801,7 +832,7 @@
     <!-- Microsoft Office -->
     <item
         component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
-        drawable="com_microsoft_office_officehubrow" />
+        drawable="com_microsoft_office_officehub" />
     <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="com_microsoft_office_officehubrow" />
@@ -915,6 +946,10 @@
     <item
         component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}"
         drawable="cn_wq_myandroidtools"/>
+    <!-- NB Card -->
+    <item
+        component="ComponentInfo{cn.com.nbcard/cn.com.nbcard.base.ui.SplashActivity}"
+        drawable="cn_com_nbcard"/>
     <!-- NetEase Dict -->
     <item
         component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}"
@@ -940,6 +975,9 @@
         component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}"
         drawable="com_heytap_market"/>
     <!-- Oulu Dict -->
+    <item
+        component="ComponentInfo{com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity}"
+        drawable="com_eusoft_eudic"/>
     <item
         component="ComponentInfo{com.qianyan.eudic/com.eusoft.dict.activity.SplashActivity}"
         drawable="com_qianyan_eudic"/>
@@ -1389,6 +1427,10 @@
     <item
         component="ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher}"
         drawable="com_samsung_android_scloud"/>
+    <!-- Samsung Search Widget -->
+    <item
+        component="ComponentInfo{com.samsung.android.app.searchwidget/com.samsung.android.app.searchwidget.ui.FeedsActivity}"
+        drawable="com_samsung_android_app_searchwidget"/>
     <!-- Samsung Secure Folder -->
     <item
         component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}"
@@ -1618,6 +1660,10 @@
     <item
         component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
         drawable="com_tencent_qqmusic"/>
+    <!-- Tencent Qidian -->
+    <item
+        component="ComponentInfo{com.tencent.qidian/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="com_tencent_qidian"/>
     <!-- Tencent QQ-->
     <item
         component="ComponentInfo{com.tencent.mobileqq/com.appshell.proxysdk.SetupInfoActivity}"
@@ -1873,6 +1919,10 @@
     <item
         component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}"
         drawable="com_linroid_zlive"/>
+    <!-- Zuimei Weather -->
+    <item
+        component="ComponentInfo{com.icoolme.android.weather/com.icoolme.android.weather.activity.SmartWeatherActivity}"
+        drawable="com_icoolme_android_weather"/>
     <!-- Zuiyou -->
     <item
         component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}"
